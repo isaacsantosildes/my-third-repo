@@ -1,6 +1,7 @@
 public class NameList {
     public static void main(String[] args) {
         System.out.println("Hello, Isaac");
-        System.out.println("Hello, Emman");
+        System.out.println("Hello, Maria");
+        System.out.println("Hello, Chad");
     }
 }
